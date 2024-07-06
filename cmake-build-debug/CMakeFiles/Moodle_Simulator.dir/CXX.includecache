@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/lenovo/CLionProjects/Moodle Simulator/Student.cpp
+iostream
+-
+Student.h
+C:/Users/lenovo/CLionProjects/Moodle Simulator/Student.h
+string
+-
+
+C:/Users/lenovo/CLionProjects/Moodle Simulator/Student.h
+string
+-
+
+C:/Users/lenovo/CLionProjects/Moodle Simulator/main.cpp
+iostream
+-
+Student.h
+C:/Users/lenovo/CLionProjects/Moodle Simulator/Student.h
+Student.cpp
+C:/Users/lenovo/CLionProjects/Moodle Simulator/Student.cpp
+
